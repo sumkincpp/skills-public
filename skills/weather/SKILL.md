@@ -1,5 +1,3 @@
-
----
 name: weather
 description: Get current weather conditions for any city using Open-Meteo. Use when asked about temperature, wind, or precipitation at a location.
 compatibility: Requires internet access and an HTTP GET tool.
